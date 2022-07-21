@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vdantas87.lwc-l5veozqp-fork-l5vep7jf",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve AthjSMelbEBSkEuBjbZF --open"
+  }
+}
